@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bff22b36f938324e835c54c3b474ff9, type: 3}
+  m_Name: e0001_hl
+  m_EditorClassIdentifier: 
+  eid: e0001_hl
+  ename: "M\u0169 l\xEDnh g\xE1c c\u0169"
+  etype: helmet
+  edesc: "\u0110\xE2y l\xE0 m\u0169 c\u1EE7a l\xEDnh g\xE1c. T\u1EA1i sao l\xEDnh
+    g\xE1c n\xE0y l\u1EA1i kh\xF4ng m\u1EB7c gi\xE1p?"
+  eImage: {fileID: 21300000, guid: cf27deb8973c12149af0e91c1ab20944, type: 3}
+  weapon: {fileID: 0}
+  passive: {fileID: 0}
+  passiveDesc: 
+  strength: 2
+  intelligence: 0
+  dexerity: 12
+  vitality: 36
+  poise: 23
+  physicalRES: 49
+  fireRES: 4
+  iceRES: 12
+  lightningRES: 5
+  magicRES: 17
+  poison: 32
+  burn: 0
+  frozen: 0
+  bleed: 46
+  blind: 80
+  strlv: 0
+  intlv: 0
+  dexlv: 0
+  vitlv: 0
+  poiseup: 1
+  strup: 1
+  dexup: 0
+  intup: 0
+  vitup: 1

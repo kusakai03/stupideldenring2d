@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bff22b36f938324e835c54c3b474ff9, type: 3}
+  m_Name: e0001_gl
+  m_EditorClassIdentifier: 
+  eid: e0001_gl
+  ename: "G\u0103ng tay v\u1EA3i"
+  etype: glove
+  edesc: "Chi\u1EBFc g\u0103ng tay \u0111\xE3 r\xE1ch nhi\u1EC1u ch\u1ED7."
+  eImage: {fileID: 21300000, guid: 3cda237d63a4c184eb1b934518a6352e, type: 3}
+  weapon: {fileID: 0}
+  passive: {fileID: 0}
+  passiveDesc: 
+  strength: 12
+  intelligence: 0
+  dexerity: 34
+  vitality: 18
+  poise: 8
+  physicalRES: 7
+  fireRES: 14
+  iceRES: 29
+  lightningRES: 27
+  magicRES: 19
+  poison: 34
+  burn: 25
+  frozen: 43
+  bleed: 37
+  blind: 2
+  strlv: 0
+  intlv: 0
+  dexlv: 0
+  vitlv: 0
+  poiseup: 1
+  strup: 1
+  dexup: 1
+  intup: 0
+  vitup: 1

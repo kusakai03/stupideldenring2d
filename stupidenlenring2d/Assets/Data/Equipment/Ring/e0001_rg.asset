@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bff22b36f938324e835c54c3b474ff9, type: 3}
+  m_Name: e0001_rg
+  m_EditorClassIdentifier: 
+  eid: e0001_rg
+  ename: "Nh\u1EABn Kh\xE1t M\xE1u"
+  etype: ring
+  edesc: "Nh\u1EABn c\u1EE7a nh\u1EEFng k\u1EBB kh\xE1t m\xE1u n\xE0y \u0111\u01B0\u1EE3c
+    r\xE8n b\u1EDFi m\u1ED9t t\u1ED9c chi\u1EBFn binh man r\u1EE3, nh\u1EEFng k\u1EBB
+    coi gi\u1EBFt ch\xF3c l\xE0 th\xFA vui duy nh\u1EA5t. M\u1ED7i khi m\xE1u k\u1EBB
+    \u0111\u1ECBch th\u1EA5m v\xE0o b\u1EC1 m\u1EB7t nh\u1EABn, s\u1EE9c m\u1EA1nh
+    c\u1EE7a ng\u01B0\u1EDDi \u0111eo \u0111\u01B0\u1EE3c gia t\u0103ng, nh\u01B0
+    th\u1EC3 ch\xEDnh nh\u1EABn \u0111ang th\u1ECFa m\xE3n c\u01A1n th\xE8m kh\xE1t
+    m\xE1u c\u1EE7a n\xF3."
+  eImage: {fileID: 21300000, guid: 038b32ba1600b6044ad8f56b1a78af37, type: 3}
+  weapon: {fileID: 0}
+  passive: {fileID: 8331654819124919072, guid: 9d370717ff46f3949a5c99fe57b7fc40, type: 3}
+  passiveDesc: "T\u0103ng 10% c\xF4ng v\u1EADt l\xED trong 10 gi\xE2y sau khi ti\xEAu
+    di\u1EC7t k\u1EBB \u0111\u1ECBch, c\u1ED9ng d\u1ED3n 3 l\u1EA7n."
+  strength: 0
+  intelligence: 0
+  dexerity: 0
+  vitality: 0
+  poise: 0
+  physicalRES: 0
+  fireRES: 0
+  iceRES: 0
+  lightningRES: 0
+  magicRES: 0
+  poison: 0
+  burn: 0
+  frozen: 0
+  bleed: 0
+  blind: 0
+  strlv: 0
+  intlv: 0
+  dexlv: 0
+  vitlv: 0
+  poiseup: 0
+  strup: 0
+  dexup: 0
+  intup: 0
+  vitup: 0

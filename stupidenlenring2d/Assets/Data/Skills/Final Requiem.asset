@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3015131d4706b8142aefe8f70f2b799c, type: 3}
+  m_Name: Final Requiem
+  m_EditorClassIdentifier: 
+  skillID: skill001
+  skillName: "L\u1EDDi C\u1EA7u Nguy\u1EC7n Cu\u1ED1i C\xF9ng"
+  skillIcon: {fileID: 21300000, guid: ace50147c1cbe9d4cac6537251aced0c, type: 3}
+  skillDescription: "Gi\u1EA3i ph\xF3ng s\u1EE9c m\u1EA1nh cu\u1ED1i c\xF9ng, m\xE1u
+    gi\u1EA3m xu\u1ED1ng c\xF2n 1, t\u1EA5n c\xF4ng c\u1EF1c m\u1EA1nh v\u1EC1 ph\xEDa
+    tr\u01B0\u1EDBc g\xE2y s\xE1t th\u01B0\u01A1ng v\u1EADt l\xED. Sau khi thi tri\u1EC3n
+    k\u0129 n\u0103ng s\u1EBD b\u1ECB cho\xE1ng v\xE0 ch\u1ECBu tr\u1EA1ng th\xE1i
+    m\xF9 l\xF2a."
+  skillAnimation: {fileID: 7400000, guid: 0bcac8fa985b0034490796c5ba0aa714, type: 2}
+  skillObject: {fileID: 1425347926436887515, guid: 4b05b658c18c8ab4988bc92e6e4edacc, type: 3}
+  skillValue1:
+  - 1
+  - 1.22
+  - 1.28
+  - 1.4
+  - 1.53
+  - 1.68
+  - 1.72
+  - 1.79
+  - 1.86
+  - 1.98
+  - 2.1
+  - 2.17
+  - 2.26
+  - 2.3
+  - 2.4
+  skillValue2: []
+  skillValue3: []
+  skillValue4: []
+  skillValue5: []
+  skillElement: Physical
+  skillEffect: {fileID: 0}
+  cooldown: 0
+  duration: 0
+  manaCost: 0
+  requiredWeapon: Any
+  requiredState: 0
