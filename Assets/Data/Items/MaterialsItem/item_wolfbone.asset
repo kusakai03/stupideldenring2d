@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9861d2984aab2584c8c7bf185270a4b0, type: 3}
+  m_Name: item_wolfbone
+  m_EditorClassIdentifier: 
+  itemID: item_wolfbone
+  itemName: "X\u01B0\u01A1ng h\xE0m c\u1EE7a s\xF3i"
+  itemType: material
+  itemDescription: "X\u01B0\u01A1ng bao n\u0103m v\u1EABn c\xF2n r\u1EAFn ch\u1EAFc
+    nh\u01B0 th\u1EBF, c\xF3 th\u1EC3 ki\u1EBFm \u0111\u01B0\u1EE3c ch\xFAt ti\u1EC1n"
+  itemSprite: {fileID: 21300000, guid: 599cf271fb7c90743ae6546604f63de3, type: 3}
+  consumeItem: {fileID: 0}
+  sell: 15

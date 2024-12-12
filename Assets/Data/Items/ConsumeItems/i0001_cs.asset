@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9861d2984aab2584c8c7bf185270a4b0, type: 3}
+  m_Name: i0001_cs
+  m_EditorClassIdentifier: 
+  itemID: i0001_cs
+  itemName: "Tr\xE1i c\xE2y n\xE0o \u0111\xF3 kh\xF4ng x\xE1c \u0111\u1ECBnh"
+  itemType: consume
+  itemDescription: "Qu\u1EA3 b\u1ECB r\u01A1i t\u1EEB c\xE2y n\xE0o \u0111\xF3 xu\u1ED1ng
+    \u0111\u1EA5t. Kh\xF4ng th\u1EC3 x\xE1c \u0111\u1ECBnh n\xF3 \u0111\xE3 r\u01A1i
+    \u0111\u01B0\u1EE3c bao l\xE2u, t\u1ED1t nh\u1EA5t \u0111\u1EEBng \u0103n n\xF3,
+    tr\u1EEB khi b\u1EA1n mu\u1ED1n m\u1EA1o hi\u1EC3m..."
+  itemSprite: {fileID: 1699873699, guid: a59d8de5719e310409ce9433a8b389ab, type: 3}
+  consumeItem: {fileID: 6105486639014368602, guid: 387fff9087d1bd04c933137690e06e2b, type: 3}

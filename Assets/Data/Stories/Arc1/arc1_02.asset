@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21949d08c96afc048815a184dab6bfb5, type: 3}
+  m_Name: arc1_02
+  m_EditorClassIdentifier: 
+  sid: arc1_02
+  storyName: a102
+  storyLines:
+  - "B\u1EA1n c\xF3 th\u1EC3 \u0111\u1ECDc \u0111\u01B0\u1EE3c d\xF2ng ch\u1EEF tr\xEAn
+    bia m\u1ED9"
+  - Albert Louiz
+  - "Chi\u1EBFn t\u1EED b\u1EA3o v\u1EC7 v\u01B0\u01A1ng qu\u1ED1c"
+  - "M\xE3i ghi nh\u1EDB c\xF4ng lao"

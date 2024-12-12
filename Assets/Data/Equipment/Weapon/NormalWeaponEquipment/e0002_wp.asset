@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bff22b36f938324e835c54c3b474ff9, type: 3}
+  m_Name: e0002_wp
+  m_EditorClassIdentifier: 
+  eid: e0002_wp
+  ename: Spear
+  etype: weapon
+  edesc: "M\u1ED9t c\xE2y th\u01B0\u01A1ng d\xE0i. Hi v\u1ECDng n\xF3 s\u1EBD kh\xF4ng
+    g\xE3y"
+  eImage: {fileID: 21300000, guid: 1610f900510a1694abe27fd5abed962e, type: 3}
+  weapon: {fileID: 11400000, guid: 22ab24c1eb772c142b51d13876e90425, type: 2}
+  passive: {fileID: 0}
+  passiveDesc: 
+  strength: 26
+  intelligence: 0
+  dexerity: 62
+  vitality: 19
+  poise: 35
+  physicalRES: 0
+  fireRES: 0
+  iceRES: 0
+  lightningRES: 0
+  magicRES: 0
+  poison: 0
+  burn: 0
+  frozen: 0
+  bleed: 0
+  blind: 0
+  strlv: 0
+  intlv: 0
+  dexlv: 0
+  vitlv: 0
+  poiseup: 1
+  strup: 1
+  dexup: 1
+  intup: 0
+  vitup: 0

@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bff22b36f938324e835c54c3b474ff9, type: 3}
+  m_Name: eglove_boneclaw
+  m_EditorClassIdentifier: 
+  eid: eglove_boneclaw
+  ename: "R\u0103ng s\xF3i"
+  etype: glove
+  edesc: "Bao tay g\u1EAFn r\u0103ng s\xF3i h\u1ED7 tr\u1EE3 chi\u1EBFn \u0111\u1EA5u
+    kh\xE1 t\u1ED1t"
+  eImage: {fileID: 21300000, guid: 85fb300d8603e9146b4f5698eb5e6740, type: 3}
+  weapon: {fileID: 0}
+  passive: {fileID: 0}
+  passiveDesc: 
+  strength: 62
+  intelligence: 0
+  dexerity: 24
+  vitality: 18
+  poise: 11
+  physicalRES: 14
+  fireRES: 25
+  iceRES: 16
+  lightningRES: 10
+  magicRES: 19
+  poison: 20
+  burn: 12
+  frozen: 2
+  bleed: 18
+  blind: 7
+  strlv: 0
+  intlv: 0
+  dexlv: 0
+  vitlv: 0
+  poiseup: 1
+  strup: 1
+  dexup: 0
+  intup: 0
+  vitup: 1

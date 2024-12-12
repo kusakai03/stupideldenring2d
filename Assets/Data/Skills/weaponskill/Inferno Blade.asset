@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3015131d4706b8142aefe8f70f2b799c, type: 3}
+  m_Name: Inferno Blade
+  m_EditorClassIdentifier: 
+  skillID: skilluwp0001
+  skillName: "L\u01B0\u1EE1i Ki\u1EBFm H\u1ECFa Ng\u1EE5c"
+  skillIcon: {fileID: 21300000, guid: 943736de6548e92438aee959e318a5da, type: 3}
+  skillDescription: "K\xEDch ho\u1EA1t k\u0129 n\u0103ng: t\u0103ng h\u1EC7 s\u1ED1
+    s\xE1t th\u01B0\u01A1ng c\u1EE7a \u0111\xF2n \u0111\xE1nh th\u01B0\u1EDDng v\xE0
+    tr\u1ECDng  trong l\u1EA7n t\u1EA5n c\xF4ng \u0111\u1EA7u ti\xEAn. Khi th\u1EF1c
+    hi\u1EC7n \u0111\xF2n tr\u1ECDng k\xEDch c\u1EE7a l\u1EA7n n\xE0y, s\u1EBD t\u1EA1o
+    ra m\u1ED9t m\u1ED9t l\u1EEDa, g\xE2y s\xE1t th\u01B0\u01A1ng h\u1ECFa duy tr\xEC."
+  skillAnimation: {fileID: 7400000, guid: bafec9a72cc4f9843ae90e48d472ff67, type: 2}
+  skillObject: {fileID: 4405563273049329591, guid: cf0322f66caf8e747922bdbea797a986, type: 3}
+  skillValue1:
+  - 0.5
+  - 0.54
+  - 0.59
+  - 0.67
+  - 0.74
+  - 0.8
+  - 0.84
+  - 0.88
+  - 0.93
+  - 1
+  - 1.06
+  - 1.11
+  - 1.14
+  - 1.17
+  - 1.2
+  skillValue2:
+  - 1.24
+  - 1.27
+  - 1.3
+  - 1.32
+  - 1.36
+  - 1.4
+  - 1.45
+  - 1.48
+  - 1.51
+  - 1.53
+  - 1.57
+  - 1.62
+  - 1.65
+  - 1.68
+  - 1.74
+  skillValue3: []
+  skillValue4: []
+  skillValue5: []
+  skillElement: Fire
+  skillEffect: {fileID: 0}
+  duration: 0
+  manaCost: 120
+  requiredWeapon: Two Hand Sword
+  requiredState: 0

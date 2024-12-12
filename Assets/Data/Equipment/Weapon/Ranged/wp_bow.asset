@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6614e9bed56efb41ad55d2f7ffec882, type: 3}
+  m_Name: wp_bow
+  m_EditorClassIdentifier: 
+  weaponID: wp_bow
+  weaponType: Ranged
+  weaponObject: {fileID: 2145939344289906877, guid: d9db846382327ae45a3d32827675f112, type: 3}
+  equipment: {fileID: 11400000, guid: 124807629b3089747978bd1de68beca1, type: 2}
+  dmgMultiplier: 1
+  normalAttackStamina: 30
+  chargeAttackStamina: 80
+  physicalRes: 0
+  fireRes: 0
+  iceRes: 0
+  lightningRes: 0
+  magicRes: 0
+  weaponSkill: {fileID: 0}

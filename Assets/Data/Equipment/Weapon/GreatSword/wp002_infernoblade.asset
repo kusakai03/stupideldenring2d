@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6614e9bed56efb41ad55d2f7ffec882, type: 3}
+  m_Name: wp002_infernoblade
+  m_EditorClassIdentifier: 
+  weaponID: wp002
+  weaponType: Two Handed Sword
+  weaponObject: {fileID: 8389935268105354458, guid: 221ff19c7a0f4bf4cb55fe9c852c1ce4, type: 3}
+  equipment: {fileID: 11400000, guid: fa36a6e1f6dc1c0488ddb88740e8a84f, type: 2}
+  dmgMultiplier: 1.8
+  normalAttackStamina: 40
+  chargeAttackStamina: 120
+  physicalRes: 86
+  fireRes: 92
+  iceRes: 3
+  lightningRes: 24
+  magicRes: 38
+  weaponSkill: {fileID: 11400000, guid: ed2402b7e8aff784d945055f199713c6, type: 2}

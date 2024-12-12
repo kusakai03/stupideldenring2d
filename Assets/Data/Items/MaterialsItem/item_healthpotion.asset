@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9861d2984aab2584c8c7bf185270a4b0, type: 3}
+  m_Name: item_healthpotion
+  m_EditorClassIdentifier: 
+  itemID: item_luxuryhealthpotion
+  itemName: "B\xECnh thu\u1ED1c h\u1ED3i ph\u1EE5c"
+  itemType: material
+  itemDescription: "L\xE0 m\u1ED9t b\xECnh thu\u1ED1c h\u1ED3i ph\u1EE5c cho con
+    ng\u01B0\u1EDDi, nh\u01B0ng kh\xF4ng ph\u1EA3i cho ng\u01B0\u1EDDi ch\u1EBFt!
+    Th\xF4i th\xEC b\xE1n \u0111i s\u1EBD \u0111\u01B0\u1EE3c kha kh\xE1."
+  itemSprite: {fileID: 151829010, guid: 09009fdae6effd246a282eb08a94fb3c, type: 3}
+  consumeItem: {fileID: 0}
+  sell: 5000

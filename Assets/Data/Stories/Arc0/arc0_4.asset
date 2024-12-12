@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21949d08c96afc048815a184dab6bfb5, type: 3}
+  m_Name: arc0_4
+  m_EditorClassIdentifier: 
+  sid: arc0_4
+  storyName: arc 0 line 4
+  storyLines:
+  - "!playername \xE0, c\u1EADu \u0111\xE3 k\u1EBFt h\xF4n ch\u01B0a?"
+  - ...
+  - "V\u1EADy ch\xFAng ta c\xE0ng ph\u1EA3i chi\u1EBFn th\u1EAFng \u0111\u1EC3 c\u1EADu
+    c\xF3 th\u1EC3 tr\u1EDF v\u1EC1 b\xEAn gia \u0111\xECnh r\u1ED3i! Hahaha"
+  - "Aiz th\u1EB1ng ch\u1EC9 huy kh\xF3 \u01B0a \u0111\u1EBFn r\u1ED3i k\xECa, v\xE0o
+    v\u1ECB tr\xED n\xE0o!"
+  - ...

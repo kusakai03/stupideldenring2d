@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bff22b36f938324e835c54c3b474ff9, type: 3}
+  m_Name: e0003_wp
+  m_EditorClassIdentifier: 
+  eid: e0003_wp
+  ename: Steel Hammer
+  etype: weapon
+  edesc: "L\xE0 m\u1ED9t c\xE2y b\xFAa r\u1EA5t d\xE0i v\xE0 n\u1EB7ng. B\xFAa \u0111\u01B0\u1EE3c
+    l\xE0m b\u1EB1ng th\xE9p ch\u1ED1ng va ch\u1EA1m c\u1EF1c t\u1ED1t, d\u1EC5 d\xE0ng
+    \u0111\u1EADp v\u1EE1 m\u1ECDi th\u1EE9."
+  eImage: {fileID: 21300000, guid: 9bacfd22450e7904e89948b6b98d1e05, type: 3}
+  weapon: {fileID: 11400000, guid: bd33b407d2aa60b42bcf27a109ebf1e3, type: 2}
+  passive: {fileID: 0}
+  passiveDesc: 
+  strength: 92
+  intelligence: 14
+  dexerity: 16
+  vitality: 3
+  poise: 46
+  physicalRES: 0
+  fireRES: 0
+  iceRES: 0
+  lightningRES: 0
+  magicRES: 0
+  poison: 0
+  burn: 0
+  frozen: 0
+  bleed: 0
+  blind: 0
+  strlv: 0
+  intlv: 0
+  dexlv: 0
+  vitlv: 0
+  poiseup: 1
+  strup: 1
+  dexup: 0
+  intup: 0
+  vitup: 1

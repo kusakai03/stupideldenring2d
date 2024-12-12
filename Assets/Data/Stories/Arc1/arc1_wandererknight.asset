@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21949d08c96afc048815a184dab6bfb5, type: 3}
+  m_Name: arc1_wandererknight
+  m_EditorClassIdentifier: 
+  sid: arc1_wandererknight
+  storyName: Default Wenderer Knight Line
+  storyLines:
+  - "Ng\u01B0\u01A1i c\xF3 th\u1EC3 hi\u1EC3u ta \u0111ang n\xF3i g\xEC \u0111\xFAng
+    kh\xF4ng?"
+  - "Ng\u01B0\u01A1i \u0111\xFAng l\xE0 qu\xE1i v\u1EADt th\xFA v\u1ECB \u0111\u1EA5y,
+    c\xF3 v\u1EBB ng\u01B0\u01A1i v\u1EABn c\xF2n l\xFD tr\xED nh\u1EC9?"
+  - "V\u1EADy ng\u01B0\u1EDDi c\xF2n nh\u1EDB g\xEC l\xFAc c\xF2n s\u1ED1ng kh\xF4ng?"
+  - "Kh\xF4ng \xE0? Ti\u1EBFc nh\u1EC9, ta c\u0169ng t\xF2 m\xF2 ng\u01B0\u01A1i
+    l\xE0 ai"
+  - "Ng\u01B0\u01A1i mu\u1ED1n bi\u1EBFt ta l\xE0 ai kh\xF4ng?"
+  - "Hehe! Ta l\xE0 nh\xE0 m\u1EA1o hi\u1EC3m Aura v\u0129 \u0111\u1EA1i! B\u1EA5t
+    c\u1EE9 n\u01A1i n\xE0o ta c\u0169ng c\xF3 th\u1EC3 xu\u1EA5t hi\u1EC7n!"
+  - "Ng\u01B0\u01A1i mu\u1ED1n h\u1ECFi t\u1EA1i sao t\xEAn c\u1EE7a ta l\xE0 Aura
+    \u0111\xFAng kh\xF4ng?"
+  - "V\xEC cha ta ngh\u0129 n\xF3 ng\u1EA7u! Ti\u1EBFc r\u1EB1ng ta kh\xF4ng c\xF3
+    aura... N\xEAn ta \u0111\xE3 kh\xF4ng \u0111\u01B0\u1EE3c v\xE0o qu\xE2n \u0111\u1ED9i."
+  - "Ch\u1EA3 sao, c\u0169ng \u0111\xE2u c\xF2n t\u1ED3n t\u1EA1i qu\xE2n \u0111\u1ED9i
+    n\u1EEFa \u0111\xE2u! Hahaha"

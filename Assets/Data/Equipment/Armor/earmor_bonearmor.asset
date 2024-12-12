@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bff22b36f938324e835c54c3b474ff9, type: 3}
+  m_Name: earmor_bonearmor
+  m_EditorClassIdentifier: 
+  eid: earmor_bonearmor
+  ename: "Gi\xE1p x\u01B0\u01A1ng"
+  etype: armor
+  edesc: "G\u1ECDi l\xE0 gi\xE1p nh\u01B0ng ch\u1EC9 l\xE0 m\u1ED9t d\xE3y x\u01B0\u01A1ng
+    \u0111\u01B0\u1EE3c c\u1ED9t b\u1EB1ng d\xE2y \u0111\u01B0\u1EE3c bao quanh ng\u01B0\u1EDDi
+    \u0111\u1EC3 ch\u1ED1ng \u0111\u1EE1 s\xE1t th\u01B0\u01A1ng."
+  eImage: {fileID: 21300000, guid: ff481b2cb7cdd9d42ab235b90ff15cb0, type: 3}
+  weapon: {fileID: 0}
+  passive: {fileID: 0}
+  passiveDesc: 
+  strength: 34
+  intelligence: 2
+  dexerity: 21
+  vitality: 56
+  poise: 21
+  physicalRES: 67
+  fireRES: 8
+  iceRES: 4
+  lightningRES: 26
+  magicRES: 17
+  poison: 34
+  burn: 24
+  frozen: 4
+  bleed: 19
+  blind: 2
+  strlv: 0
+  intlv: 0
+  dexlv: 0
+  vitlv: 0
+  poiseup: 1
+  strup: 0
+  dexup: 0
+  intup: 0
+  vitup: 2

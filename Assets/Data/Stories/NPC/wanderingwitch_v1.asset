@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21949d08c96afc048815a184dab6bfb5, type: 3}
+  m_Name: wanderingwitch_v1
+  m_EditorClassIdentifier: 
+  sid: wanderingwitch_v1
+  storyName: Phu 1
+  storyLines:
+  - "H\u1EEDm?"
+  - "\xC0 xin ch\xE0o qu\xFD kh\xE1ch! "
+  - "T\xF4i ch\u1EC9 l\xE0 th\u01B0\u01A1ng nh\xE2n lang thang ki\u1EBFm s\u1ED1ng
+    qua ng\xE0y th\xF4i! Kuku"
+  - "D\xF9 l\xE0 ng\u01B0\u1EDDi hay qu\xE1i v\u1EADt c\u0169ng \u0111\u1EC1u c\xF3
+    th\u1EC3 l\xE0 kh\xE1ch c\u1EE7a t\xF4i, c\u1EE9 t\u1EF1 nhi\xEAn!"
+  - "Qu\xFD kh\xE1ch mu\u1ED1n mua g\xEC? Hay mu\u1ED1n b\xE1n l\u1EA1i th\u1EE9
+    g\xEC?"
+  - "Hi v\u1ECDng qu\xFD kh\xE1ch \u0111\u1EEBng b\xE1n cho t\xF4i v\u0169 l\u1EF1c
+    nh\xE9, kukuku"

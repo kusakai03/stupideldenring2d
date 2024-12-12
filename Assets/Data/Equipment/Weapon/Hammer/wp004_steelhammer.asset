@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6614e9bed56efb41ad55d2f7ffec882, type: 3}
+  m_Name: wp004_steelhammer
+  m_EditorClassIdentifier: 
+  weaponID: wp004_steelhammer
+  weaponType: Hammer
+  weaponObject: {fileID: 5582211623876607607, guid: 1e6988a9b6eb4a545a2bbc724b11170c, type: 3}
+  equipment: {fileID: 11400000, guid: 70ec2771cdb1d23408b17680f164c48c, type: 2}
+  dmgMultiplier: 1.92
+  normalAttackStamina: 50
+  chargeAttackStamina: 145
+  physicalRes: 32
+  fireRes: 9
+  iceRes: 26
+  lightningRes: 2
+  magicRes: 7
+  weaponSkill: {fileID: 11400000, guid: 75b3c33c79577e542b83871695c0363b, type: 2}
